@@ -96,15 +96,29 @@
 
 ---
 
-## 🐍 contributions
+## 📈 activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davestinhast/davestinhast/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davestinhast/davestinhast/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/davestinhast/davestinhast/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=davestinhast&theme=react-dark&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=c9d1d9&area_color=58A6FF" />
+
+</div>
+
+---
+
+## 🧠 coding habits
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davestinhast&theme=github_dark" />
+
+<br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davestinhast&theme=github_dark" />
+&nbsp;
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davestinhast&theme=github_dark" />
+&nbsp;
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davestinhast&theme=github_dark&utcOffset=-5" />
 
 </div>
 
