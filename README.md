@@ -13,7 +13,7 @@
 ```text
 > currently            rompiendo código a propósito para ver si aguanta la presión
 > learning             XD
-> ask me about         nada causa, búscalo en Google primero
+> ask me about         googleit
 > principle            tu código es mierda. El mío también, pero compila.
 
 ```
