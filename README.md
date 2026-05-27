@@ -11,11 +11,10 @@
 <div align="center">
 
 ```text
-> currently            low-level systems | reverse engineering | GIS
-> learning             nftables · Rust · x86 Assembly
-> ask me about         Windows internals · cybersecurity · spatial analysis
-> portfolio            github.com/davestinhast
-> principle            native tools, no bloat.
+> currently            breaking things on purpose
+> learning             stuff you never will
+> ask me about         nothing, google it
+> principle            your code sucks. mine too.
 ```
 
 </div>
