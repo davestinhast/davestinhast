@@ -12,8 +12,8 @@
 
 ```text
 > currently            rompiendo código a propósito para ver si aguanta la presión
-> learning             XD
-> ask me about         googleit
+> learning             XDXDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+> ask me about         googleitgoogleitgoogleitgoogleitgoogleitgoogleitgoogleit
 > principle            tu código es mierda. El mío también, pero compila.
 ```
 
