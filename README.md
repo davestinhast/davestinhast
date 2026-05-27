@@ -12,9 +12,10 @@
 
 ```text
 > currently            rompiendo código a propósito para ver si aguanta la presión
-> learning             tecnologías complejas que no enseñan en cualquier universidad
+> learning             XD
 > ask me about         nada causa, búscalo en Google primero
-> principle            tu código es horrible. El mío también, pero por lo menos compila de inmediato.
+> principle            tu código es mierda. El mío también, pero compila.
+
 ```
 
 </div>
