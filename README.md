@@ -3,7 +3,7 @@
 <h1 align="center">Fabrizio Jair &nbsp;/&nbsp; davestinhast</h1>
 
 <h4 align="center">
-  Civil Engineering &nbsp;&bull;&nbsp; Systems Engineering &nbsp;&bull;&nbsp; Venezuela
+  Civil Engineering &nbsp;&bull;&nbsp; Systems Engineering &nbsp;&bull;&nbsp; Perú
 </h4>
 
 <br/>
