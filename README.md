@@ -11,10 +11,10 @@
 <div align="center">
 
 ```text
-> currently            breaking things on purpose
-> learning             stuff you never will
-> ask me about         nothing, google it
-> principle            your code sucks. mine too.
+> currently            rompiendo código a propósito pa' ver si aguanta la chola
+> learning             cosas bien yucas que tú en tu perra vida vas a entender, gil
+> ask me about         nada causa, no molestes y googlealo al toque
+> principle            tu código da tremenda palta. El mío también, pero compila.
 ```
 
 </div>
@@ -186,39 +186,39 @@ Una colección masiva de utilidades prácticas y herramientas CLI sin bloatware 
 
 | Lenguaje | Repositorio | Propósito Técnico |
 |---|---|---|
-| **C** | [c-arena-allocator](https://github.com/davestinhast/c-arena-allocator) | Arena Allocator personalizado de alta velocidad libre de fragmentación. |
-| **C++** | [cpp-threadpool](https://github.com/davestinhast/cpp-threadpool) | Pool de hilos con futuros genéricos y variables de condición sin dependencias. |
-| **Rust** | [rust-port-scanner](https://github.com/davestinhast/rust-port-scanner) | Escáner TCP concurrente y asíncrono optimizado con Tokio. |
-| **Go** | [go-load-balancer](https://github.com/davestinhast/go-load-balancer) | Balanceador de carga HTTP Round-Robin/Least-Conn y auto-healthchecks. |
-| **Python** | [py-network-analyzer](https://github.com/davestinhast/py-network-analyzer) | Analizador de tráfico de red asíncrono con Scapy y estadísticas estructuradas. |
-| **Bash** | [bash-sysadmin-kit](https://github.com/davestinhast/bash-sysadmin-kit) | Utilería de backup rotativo comprimido y monitores de servicios. |
-| **PowerShell** | [ps-windows-hardening](https://github.com/davestinhast/ps-windows-hardening) | Script de automatización defensiva y fortificación de puertos Windows. |
-| **Assembly** | [asm-shellcode-lab](https://github.com/davestinhast/asm-shellcode-lab) | Algoritmo de hashing de cadenas DJB2 optimizado a nivel de registros de la CPU. |
-| **JavaScript** | [js-cli-toolkit](https://github.com/davestinhast/js-cli-toolkit) | Hasheador asíncrono con zero-memory y specs de sistema para terminal. |
-| **TypeScript** | [ts-api-client](https://github.com/davestinhast/ts-api-client) | Cliente HTTP con reintentos automáticos, backoff exponencial y tipado estricto. |
-| **Java** | [java-data-structures](https://github.com/davestinhast/java-data-structures) | Árbol Binario de Búsqueda (BST) genérico auto-ordenable. |
-| **Kotlin** | [kotlin-csv-processor](https://github.com/davestinhast/kotlin-csv-processor) | Procesador, analizador y extractor estadístico de archivos CSV con buffering. |
-| **C#** | [cs-performance-monitor](https://github.com/davestinhast/cs-performance-monitor) | Dashboard en tiempo real de RAM, discos y especificaciones del sistema operativo. |
-| **Scala** | [scala-stream-pipeline](https://github.com/davestinhast/scala-stream-pipeline) | Pipeline de flujos inmutables y agregación funcional de métricas. |
-| **Clojure** | [clojure-edn-transformer](https://github.com/davestinhast/clojure-edn-transformer) | Transformador funcional seguro de mapas EDN y ofuscación de credenciales. |
-| **Elixir** | [elixir-job-queue](https://github.com/davestinhast/elixir-job-queue) | Cola asíncrona de paralelismo controlado sobre Green Threads de BEAM. |
-| **Erlang** | [erlang-chat-server](https://github.com/davestinhast/erlang-chat-server) | Servidor de mensajería y actor inmutable recursivo con paso de mensajes nativo. |
-| **Groovy** | [groovy-jenkins-lib](https://github.com/davestinhast/groovy-jenkins-lib) | Librería compartida de Jenkins para automatización modular de pipelines CI/CD. |
-| **Crystal** | [crystal-bench-server](https://github.com/davestinhast/crystal-bench-server) | Servidor HTTP ultrarrápido compilado con LLVM y concurrencia por Fibras. |
-| **Lua** | [lua-game-engine-base](https://github.com/davestinhast/lua-game-engine-base) | Engine físico básico AABB 2D con loop ininterrumpido y Pub/Sub de eventos. |
-| **Nim** | [nim-sysmon](https://github.com/davestinhast/nim-sysmon) | Monitor interactivo de CPU, RAM e hilos activos en consola con Nim. |
-| **Zig** | [zig-http-parser](https://github.com/davestinhast/zig-http-parser) | Parser HTTP/1.1 de cero asignaciones en memoria heap (Zero-Allocation). |
-| **Swift** | [swift-macos-cli](https://github.com/davestinhast/swift-macos-cli) | Monitor nativo de hardware y uptime mediante bindings directos de C sysctl. |
-| **Dart** | [dart-cli-tools](https://github.com/davestinhast/dart-cli-tools) | Analizador recursivo de discos con desglose espacial por extensiones. |
-| **R** | [r-geodata-viz](https://github.com/davestinhast/r-geodata-viz) | Utilería geomática y cálculo de matrices de distancia geodésica mediante Haversine. |
-| **MATLAB** | [matlab-spatial-analysis](https://github.com/davestinhast/matlab-spatial-analysis) | Simulador e interpolador espacial IDW puro sin dependencias de cajas de herramientas. |
-| **Julia** | [julia-signal-proc](https://github.com/davestinhast/julia-signal-proc) | Procesador de telemetría estructural con filtro de media móvil y cálculo de SNR. |
-| **Haskell** | [haskell-parser-combinators](https://github.com/davestinhast/haskell-parser-combinators) | Combinadores de parsers monádicos con backtracking implícito. |
-| **PHP** | [php-rest-micro](https://github.com/davestinhast/php-rest-micro) | Enrutador y microservicio REST CRUD sobre base de datos local SQLite con PDO. |
-| **Perl** | [perl-log-parser](https://github.com/davestinhast/perl-log-parser) | Analizador regex de archivos log de servidor y conteo de respuestas. |
-| **HTML5** | [html-component-lib](https://github.com/davestinhast/html-component-lib) | Librería de elementos web nativos desacoplados y modulares sin frameworks. |
-| **SQL** | [sql-query-cookbook](https://github.com/davestinhast/sql-query-cookbook) | Recetario de optimización con índices parciales, CTEs recursivos y triggers. |
-| **GLSL** | [glsl-shader-collection](https://github.com/davestinhast/glsl-shader-collection) | Rejilla infinita y sombreados procedurales dinámicos procesados por la GPU. |
+| **C** | [c-arena-allocator](https://github.com/davestinhast/c-arena-allocator) | Arena Allocator al toque pa' que no te quedes sin RAM por las puras. |
+| **C++** | [cpp-threadpool](https://github.com/davestinhast/cpp-threadpool) | Pool de hilos de una, sin meter floro ni dependencias basuras. |
+| **Rust** | [rust-port-scanner](https://github.com/davestinhast/rust-port-scanner) | Escáner TCP asíncrono que corre hecho un balazo, batería. |
+| **Go** | [go-load-balancer](https://github.com/davestinhast/go-load-balancer) | Balanceador HTTP pa' repartir la chamba equitativamente y sin palta. |
+| **Python** | [py-network-analyzer](https://github.com/davestinhast/py-network-analyzer) | Sapeador de red con Scapy pa' ver qué chucha pasa en tu tráfico. |
+| **Bash** | [bash-sysadmin-kit](https://github.com/davestinhast/bash-sysadmin-kit) | Respaldos y monitores al toque pa' que no te vayas de cara con tu server. |
+| **PowerShell** | [ps-windows-hardening](https://github.com/davestinhast/ps-windows-hardening) | Script defensivo potente pa' que no te metan virus los csm. |
+| **Assembly** | [asm-shellcode-lab](https://github.com/davestinhast/asm-shellcode-lab) | Hash DJB2 a puro fierro (CPU) pa' lornas que no saben optimizar. |
+| **JavaScript** | [js-cli-toolkit](https://github.com/davestinhast/js-cli-toolkit) | Hasheador de archivos al toque sin tragar memoria como gil. |
+| **TypeScript** | [ts-api-client](https://github.com/davestinhast/ts-api-client) | Cliente HTTP robusto que no se chupa si la API se cae de la nada. |
+| **Java** | [java-data-structures](https://github.com/davestinhast/java-data-structures) | Árbol binario genérico bien ordenado pa' dejar de usar arrays webones. |
+| **Kotlin** | [kotlin-csv-processor](https://github.com/davestinhast/kotlin-csv-processor) | Procesador de CSVs al instante y con agregación estadística fina. |
+| **C#** | [cs-performance-monitor](https://github.com/davestinhast/cs-performance-monitor) | Dashboard en vivo de tu PC pa' ver si tu compu está agonizando. |
+| **Scala** | [scala-stream-pipeline](https://github.com/davestinhast/scala-stream-pipeline) | Procesamiento funcional de telemetría sin mutar webadas. |
+| **Clojure** | [clojure-edn-transformer](https://github.com/davestinhast/clojure-edn-transformer) | Lector de EDN bien inmutable pa' esconder contraseñas de giles sapos. |
+| **Elixir** | [elixir-job-queue](https://github.com/davestinhast/elixir-job-queue) | Cola de chambas asíncronas sobre Green Threads de BEAM. Una sed. |
+| **Erlang** | [erlang-chat-server](https://github.com/davestinhast/erlang-chat-server) | Broker de mensajería con actores que no comparten ni una weba. |
+| **Groovy** | [groovy-jenkins-lib](https://github.com/davestinhast/groovy-jenkins-lib) | Pipeline de Jenkins automatizado pa' no estar compilando a mano como gil. |
+| **Crystal** | [crystal-bench-server](https://github.com/davestinhast/crystal-bench-server) | Servidor HTTP que vuela como go, pero con la sintaxis fina de ruby. |
+| **Lua** | [lua-game-engine-base](https://github.com/davestinhast/lua-game-engine-base) | Engine físico básico AABB 2D con loop ininterrumpido pa' meterle pichanga. |
+| **Nim** | [nim-sysmon](https://github.com/davestinhast/nim-sysmon) | Monitor interactivo en Nim pa' ver tus recursos al toque. |
+| **Zig** | [zig-http-parser](https://github.com/davestinhast/zig-http-parser) | Parser de HTTP recontra ligero con cero asignaciones en el heap. Fino. |
+| **Swift** | [swift-macos-cli](https://github.com/davestinhast/swift-macos-cli) | Sapeador de specs de Mac usando bindings de kernel. Hecho en un periquete. |
+| **Dart** | [dart-cli-tools](https://github.com/davestinhast/dart-cli-tools) | Buscador de archivos en tu disco pa' ver qué carpetas te están tragando espacio. |
+| **R** | [r-geodata-viz](https://github.com/davestinhast/r-geodata-viz) | Cálculo de distancias topográficas con Haversine. Ideal pa' ingenieros de verdad. |
+| **MATLAB** | [matlab-spatial-analysis](https://github.com/davestinhast/matlab-spatial-analysis) | Interpolador espacial IDW pa' no estar adivinando cotas a lo loco en tu obra. |
+| **Julia** | [julia-signal-proc](https://github.com/davestinhast/julia-signal-proc) | Filtro de señales de telemetría pa' quitarle el ruido feo. Bien bacán. |
+| **Haskell** | [haskell-parser-combinators](https://github.com/davestinhast/haskell-parser-combinators) | Parsers monádicos con backtracking pa' cerebritos y chancas. |
+| **PHP** | [php-rest-micro](https://github.com/davestinhast/php-rest-micro) | API REST ultra ligera con SQLite pa' levantar servicios al toque. |
+| **Perl** | [perl-log-parser](https://github.com/davestinhast/perl-log-parser) | Parser de logs viejos usando regex. Rápido y sucio, causa. |
+| **HTML5** | [html-component-lib](https://github.com/davestinhast/html-component-lib) | Componentes nativos sin usar React, que da tremenda palta. |
+| **SQL** | [sql-query-cookbook](https://github.com/davestinhast/sql-query-cookbook) | Consultas SQL bien optimizadas pa' que tu base de datos no se tire al abandono. |
+| **GLSL** | [glsl-shader-collection](https://github.com/davestinhast/glsl-shader-collection) | Shaders en GPU pa' meterle harta facha visual procedural. |
 
 <br/>
 
