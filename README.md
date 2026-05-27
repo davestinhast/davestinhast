@@ -88,14 +88,14 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=davestinhast&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=davestinhast&theme=github-dark-blue&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davestinhast&theme=github_dark" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=davestinhast&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davestinhast&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davestinhast&theme=github_dark" />
 
 </div>
 
