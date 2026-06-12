@@ -4,11 +4,11 @@ I'm a Systems + Civil Engineering student from Lima, Perú. I spend most of my t
 
 Right now I'm mostly into Windows internals, low-level optimization, and network tooling. I also have a weird hobby of reverse engineering game anticheats.
 
-- 🔭 Currently working on **platamax** and some Windows tooling
-- 🌱 Learning more about kernel-mode programming and x86-64 assembly
-- 🎮 I play too much L4D2 — it's a feature, not a bug
-- 📫 Reach me at **davestinhast@gmail.com**
-- ⚡ Fun fact: I have two engineering degrees and still Google how to center a div
+- Currently working on **platamax** and some Windows tooling
+- Learning more about kernel-mode programming and x86-64 assembly
+- I play too much L4D2 — it's a feature, not a bug
+- davestinhast@gmail.com
+- Fun fact: I have two engineering degrees and still Google how to center a div
 
 ---
 
@@ -36,11 +36,11 @@ Right now I'm mostly into Windows internals, low-level optimization, and network
 
 **Some things I've built:**
 
-- 🔍 [l4d2c-anticheat-re](https://github.com/davestinhast/l4d2c-anticheat-re) — full RE of L4D2's anticheat binary. detection logic, HWID, protobuf schema.
-- ⚡ [windows-10-latency-optimizer](https://github.com/davestinhast/windows-10-latency-optimizer) — registry, TCP stack, power plan, MSI mode, timer daemon. all reversible.
-- 🎮 [l4d2-stats-editor](https://github.com/davestinhast/l4d2-stats-editor) — CLI to read/edit L4D2 Steam stats directly
-- 🔒 [nftables-autocomplete](https://github.com/davestinhast/nftables-autocomplete) — tab completions for nft. bash, zsh and fish.
-- 🔎 [rust-port-scanner](https://github.com/davestinhast/rust-port-scanner) — async TCP scanner. fast, no bloat.
+- [l4d2c-anticheat-re](https://github.com/davestinhast/l4d2c-anticheat-re) — full RE of L4D2's anticheat binary. detection logic, HWID, protobuf schema.
+- [windows-10-latency-optimizer](https://github.com/davestinhast/windows-10-latency-optimizer) — registry, TCP stack, power plan, MSI mode, timer daemon. all reversible.
+- [l4d2-stats-editor](https://github.com/davestinhast/l4d2-stats-editor) — CLI to read/edit L4D2 Steam stats directly
+- [nftables-autocomplete](https://github.com/davestinhast/nftables-autocomplete) — tab completions for nft. bash, zsh and fish.
+- [rust-port-scanner](https://github.com/davestinhast/rust-port-scanner) — async TCP scanner. fast, no bloat.
 
 ---
 
