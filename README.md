@@ -1,6 +1,6 @@
 ### Hi there, I'm Fabrizio 👋
 
-I'm a Systems + Civil Engineering student from Lima, Perú. I spend most of my time writing C++ and Python, breaking things on purpose to understand how they work, and occasionally touching web stuff when someone pays me to.
+I'm a Systems + Civil Engineering student from Perú. I spend most of my time writing C++ and Python, breaking things on purpose to understand how they work, and occasionally touching web stuff when someone pays me to.
 
 Right now I'm mostly into Windows internals, low-level optimization, and network tooling. I also have a weird hobby of reverse engineering game anticheats.
 
