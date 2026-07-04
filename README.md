@@ -4,7 +4,7 @@
 
 <br/>
 
-The goal is always the same: strip every layer until the machine does exactly what I want. Kernel-mode timers, interrupt affinity, hardware latency, gaming optimization down to the driver level until the numbers move. On the offensive side: game anticheat binaries pulled apart down to protobuf schemas and HWID fingerprinting logic, shellcode with custom syscall resolvers, red team tooling in C++ that tends to generate interesting VirusTotal results. Side obsession: esoteric languages (Malbolge, Befunge, Piet, APL, Intercal), each one a different forcing function for thinking about what computation actually is.
+The goal is always the same: strip every layer until the machine does exactly what I want. Kernel-mode timers, interrupt affinity, hardware latency, gaming optimization down to the driver level until the numbers move. On the offensive side: game anticheat binaries pulled apart down to protobuf schemas and HWID fingerprinting logic, shellcode with custom syscall resolvers, red team tooling in C++ that tends to generate interesting VirusTotal results. 
 
 
 
