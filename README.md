@@ -10,9 +10,11 @@
 
 <br/>
 
-The goal is always the same: strip every layer until the machine does exactly what I want. Kernel-mode timers, interrupt affinity, hardware latency, tuning Windows at the driver level until the numbers move. On the offensive side: anticheat binaries pulled apart down to protobuf schemas and HWID fingerprinting logic, shellcode with custom syscall resolvers, red team tooling in C++. Side obsession: esoteric languages — Malbolge, Befunge, Piet, APL, Intercal — each one a different forcing function for thinking about what computation actually is.
+The goal is always the same: strip every layer until the machine does exactly what I want. Kernel-mode timers, interrupt affinity, hardware latency, gaming optimization down to the driver level until the numbers move. On the offensive side: game anticheat binaries pulled apart down to protobuf schemas and HWID fingerprinting logic, shellcode with custom syscall resolvers, red team tooling in C++. Side obsession: esoteric languages (Malbolge, Befunge, Piet, APL, Intercal), each one a different forcing function for thinking about what computation actually is.
 
-The other half is generative. GPU-driven cities with animated rain and fog running in GLSL straight in the browser. Chaos renderers in Julia — Lorenz attractors, three-body problems, reaction-diffusion — frame by frame until they look like something real. Data that moves.
+The other half is generative. GPU-driven cities with animated rain and fog running in GLSL straight in the browser. Chaos renderers in Julia (Lorenz attractors, three-body problems, reaction-diffusion) frame by frame until they look like something real. Data that moves.
+
+Also ships executables that VirusTotal finds personally upsetting. gege
 
 Currently: kernel space getting deeper, a platform getting built from nothing.
 
