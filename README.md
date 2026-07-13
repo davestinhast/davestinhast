@@ -1,13 +1,7 @@
 **Fabrizio** · Systems & Civil Engineering
 
-<sub>Windows internals · binary reverse engineering · offensive security tooling</sub>
-
-<br/>
-
-VirusTotal results. 
-
-
-<br/>
+binary reverse engineering 
+offensive security tooling
 
 ---
 
